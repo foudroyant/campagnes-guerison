@@ -30,7 +30,7 @@ class CustomHero extends HTMLElement {
               El Profeta Kacou Philippe en América Latina — Noviembre 2025
             </p>
             <div class="actions animate-fade-in" style="animation-delay: 0.4s">
-              <a class="btn" href="https://wa.me/message/PE63FQO747POH1">Inscribirse</a>
+              <a class="btn" href="/contact.html">Inscribirse</a>
               <a class="btn btn-outline" href="https://wa.me/message/PE63FQO747POH1">Ver el programa</a>
             </div>
           </div>
